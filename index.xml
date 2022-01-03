@@ -82,17 +82,16 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>About me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>This theme is created based on hugo-coder.
-I made it possible to tell yourself more by my change.
-Please see &amp;ldquo;FeaturesOfCoderPortfolio&amp;rdquo; in the post about the change. Regarding other demo contents, it is hugo-coder&amp;rsquo;s thing.
-Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
- Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:</description>
+      <description>hi, i am made Wiguna Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
     </item>
     
     <item>
