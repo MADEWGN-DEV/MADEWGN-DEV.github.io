@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animes on Made Wiguna</title>
+    <link>/anime/</link>
+    <description>Recent content in Animes on Made Wiguna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Jan 2022 04:51:58 +0000</lastBuildDate><atom:link href="/anime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mahouka Koukou No Rettousei Tsuioku Hen</title>
+      <link>/anime/mahouka-koukou-no-rettousei-tsuioku-hen/</link>
+      <pubDate>Tue, 04 Jan 2022 04:51:58 +0000</pubDate>
+      
+      <guid>/anime/mahouka-koukou-no-rettousei-tsuioku-hen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

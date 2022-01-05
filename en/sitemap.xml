@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2022-01-05T06:17:13+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url><url>
+    <loc>/toko/</loc>
+    <lastmod>2022-01-05T06:17:13+00:00</lastmod>
+  </url><url>
+    <loc>/toko/promotion/</loc>
+    <lastmod>2022-01-05T06:17:13+00:00</lastmod>
+  </url><url>
+    <loc>/anime/</loc>
+    <lastmod>2022-01-04T04:51:58+00:00</lastmod>
+  </url><url>
+    <loc>/anime/mahouka-koukou-no-rettousei-tsuioku-hen/</loc>
+    <lastmod>2022-01-04T04:51:58+00:00</lastmod>
+  </url><url>
     <loc>/posts/featuresofcoderportfolio/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +38,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/posts/featuresofcoderportfolio/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
                 />
   </url><url>
     <loc>/posts/</loc>
